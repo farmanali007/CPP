@@ -1,0 +1,5 @@
+1223	farman         	00	00	ali
+3445	ali            	00	00	farman
+555	imran          	00	00	12
+6666	farhan         ˜şÆ7(	00	00	9000
+4444	irfan          ˜şÆ7(	00	00	8888

@@ -1,0 +1,8 @@
+==>pointer ksi bhi veriables ka address contain krta ha jis type ka pointer hoga usi type k veriable ka adress contain kery ga// 
+==> void pointer ak asa pointer ha jo kisi bhi type k data type k veribale ka adress contain kr skta ha/
+==>void pointer banana programming k lahaz sy aak ghlat practice hogi kun yh ak user define pointer hota jisko ak funtion define kr banaya jata ha or is pointer ko prefrence nahi d jati kun compile eror nahi milta iska or programm crash kr stka ha//
+==>array ka phla member ka address hi ak array ka address hota h//
+====>//array ka name print krwana==aray ka address print krwana==first member ka address print krwana//
+==>cout<<luckyNumbers<<endl;//it means array's name behave like pointer bcz it have address of array//
+==> cout<<luckyNumbers[2]<<enld;//it means []is de-addressing operator for aarray which gives value of array at that index//
+==>if we  remove () on calling a function then we get address of funciton//

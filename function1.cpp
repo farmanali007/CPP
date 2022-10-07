@@ -13,9 +13,4 @@ int sum(int x,int y)
 {
     return(x+y);
 }
-Your First C++ Program
-
-Your First C++ Program
-
-Your First C++ Program
 
